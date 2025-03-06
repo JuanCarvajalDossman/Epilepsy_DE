@@ -1,3 +1,8 @@
-# PseudoBulk differential expression
+# Single-Cell data analysis from Epilepsy patients
 
-Repository for single cell data analysis from the Epilepsy project.
+*PseudoBulk differential expression*
+
+Scripts for: 
+- Batch correction using COMBATseq.
+- Differential expression (DE) Using DESeq2
+- GO and KEGG Enrichment analysis
